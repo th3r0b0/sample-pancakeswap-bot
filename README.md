@@ -10,7 +10,7 @@ This project is free and is built by referencing other existing open source repo
 
 - [Features](#FEATURES)
 - [Usage](#USAGE)
-- [Troubleshoot](#TROUBLESHOOT)
+- [Troubleshooting](#TROUBLESHOOTING)
 
 ## Features
 
@@ -96,7 +96,7 @@ SELL_AMOUNT_OF_COIN=0.002
 
 ```
 
-## TROUBLESHOOT
+## Troubleshooting
 
 These are some reasons for your txn to fail:
 <br>
