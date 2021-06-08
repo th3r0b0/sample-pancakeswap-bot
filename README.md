@@ -4,7 +4,7 @@ A sample bot based on NodeJS for automating pancakeswap transactions.
 
 ## DISCLAIMER
 
-This project is free and is built by referencing other existing open source repositories for educational and demonstrational purposes only. Use at your own risk! The developer is not responsible for any consequences araised by the usage of this software. User descrition is adviced.
+This project is free and is built by referencing other existing open source repositories for educational and demonstrational purposes only. Use at your own risk! The developer is not responsible for any consequences araised by the usage of this software. User discrition is adviced.
 
 # Table of contents
 
